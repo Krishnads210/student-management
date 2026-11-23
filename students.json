@@ -1,0 +1,17 @@
+{
+    "1": {
+        "Name": "Km",
+        "Age": 23,
+        "Major": "Science"
+    },
+    "2": {
+        "Name": "Krish",
+        "Age": 24,
+        "Major": "Science"
+    },
+    "3": {
+        "Name": "Krishna Murthy",
+        "Age": 23,
+        "Major": "Arts"
+    }
+}
