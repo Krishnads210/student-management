@@ -1,0 +1,33 @@
+2026-11-20 08:42:23,827 - INFO - Program started
+2026-11-20 08:42:23,828 - WARNING - students.json not found, starting with no students
+2026-11-20 08:42:27,270 - INFO - All student data requested
+2026-11-20 08:42:41,987 - INFO - Added student 1: Km
+2026-11-20 08:42:41,990 - INFO - Saved 1 students to students.json
+2026-11-20 08:42:46,461 - INFO - All student data requested
+2026-11-20 08:43:14,118 - INFO - Added student 2: Krishna
+2026-11-20 08:43:14,120 - INFO - Saved 2 students to students.json
+2026-11-20 08:43:18,635 - WARNING - Student ID 3 not found
+2026-11-20 08:43:18,636 - WARNING - Invalid input: Student ID 3 not found
+2026-11-20 08:43:38,082 - INFO - Updated student 2: Major = Science
+2026-11-20 08:43:38,083 - INFO - Saved 2 students to students.json
+2026-11-20 08:43:43,394 - INFO - All student data requested
+2026-11-20 08:43:52,487 - INFO - Searched for student 3
+2026-11-20 08:43:52,488 - WARNING - Student ID 3 not found
+2026-11-20 08:43:52,489 - WARNING - Invalid input: Student ID 3 not found
+2026-11-20 08:43:56,737 - INFO - Searched for student 1
+2026-11-20 08:44:04,063 - INFO - Program exited
+2026-11-20 08:44:20,356 - INFO - Program started
+2026-11-20 08:44:20,356 - INFO - Loaded 2 students from students.json
+2026-11-20 08:44:22,051 - WARNING - Invalid input: Please enter a number between 1 and 6
+2026-11-20 08:45:34,675 - INFO - Program exited
+2026-11-23 20:49:57,548 - INFO - Program started
+2026-11-23 20:49:57,549 - INFO - Students loaded
+2026-11-23 20:50:24,994 - INFO - Added student 3: Krishna Murthy
+2026-11-23 20:50:24,996 - INFO - Students saved
+2026-11-23 20:50:32,914 - INFO - All student data requested
+2026-11-23 20:51:08,201 - WARNING - Student ID 2 already exists
+2026-11-23 20:51:08,202 - WARNING - Invalid input: Student ID 2 already exists
+2026-11-23 20:51:31,167 - INFO - Updated student 2: Name = Krish
+2026-11-23 20:51:31,170 - INFO - Students saved
+2026-11-23 20:51:47,120 - INFO - All student data requested
+2026-11-23 20:51:56,246 - INFO - Program exited
